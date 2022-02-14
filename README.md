@@ -10,13 +10,12 @@
 
 
 
-1. [Введение в тестирование безопасности](https://github.com/mshegolev/loadqa-homeworks/blob/main/1.Introduction%20to%20load%20testing/homework_lecture1.md)
+1. [Введение в тестирование безопасности](https://github.com/netology-code/ibqa-homeworks/blob/main/1.%20Intro/homework_lecture1.md)
 
-2. [Инъекции и уязвимости на уровне ОС](https://github.com/netology-code/loadqa-homeworks/blob/main/2.Load%20environment/homework_lecture2.md)
+2. [Инъекции и уязвимости на уровне ОС](https://github.com/netology-code/ibqa-homeworks/blob/main/2.%20Injections%20and%20vulnerabilities/homework_lecture2.md)
 
-3. [SQL, XSS, Code и другие инъекции](https://github.com/mshegolev/loadqa-homeworks/blob/main/3.Load%20web/homework_lecture3.md)
+3. [SQL, XSS, Code и другие инъекции]
 
-4. [Права доступа, авторизация, сессии, куки](https://github.com/mshegolev/loadqa-homeworks/blob/main/4.Load%20db/homework_lecture4.md)
+4. [Права доступа, авторизация, сессии, куки]
 
-5. [Сетевая безопасность](https://github.com/mshegolev/loadqa-homeworks/blob/main/5.Metrics/homework_lecture5.md)
-
+5. [Сетевая безопасность]
