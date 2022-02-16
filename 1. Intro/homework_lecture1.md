@@ -14,6 +14,7 @@
 
 1. [Wireshark](https://www.wireshark.org/download.html)
 2. [OWASP ZAP](https://www.zaproxy.org/download/)
+3. [Firefox](https://www.mozilla.org/ru/firefox/new/)
 
 ------
 
