@@ -7,7 +7,7 @@
 ### Подготовка
 
 1. Скачайте и установите сканер [Nmap](https://nmap.org/download.html).
-2. Просканируйте хост scanme.nmap.org.
+2. Просканируйте хост **scanme.nmap.org**.
 
 ------
 
