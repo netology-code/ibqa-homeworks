@@ -11,7 +11,7 @@
 
 1. [Введение в тестирование безопасности](https://github.com/netology-code/ibqa-homeworks/blob/main/1.%20Intro/homework_lecture1.md).
 
-2. [Инъекции и уязвимости на уровне ОС](https://github.com/netology-code/ibqahomeworks/blob/main/2.%20Injections%20and%20vulnerabilities/homework_lecture2.md).
+2. [Инъекции и уязвимости на уровне ОС](https://github.com/netology-code/ibqa-homeworks/blob/main/2.%20Injections%20and%20vulnerabilities/homework_lecture2.md).
 
 3. [SQL, XSS, Code и другие инъекции](https://github.com/netology-code/ibqa-homeworks/blob/main/3.%20SQL_XSS_Code/homework_lecture3.md).
 
